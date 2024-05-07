@@ -14,3 +14,5 @@ Ticket: Ticket number.
 Fare: Passenger fare.
 Cabin: Cabin number. 
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+
+### The train set was used to build the ML model while the test set was used to see how well the model is performing.
